@@ -149,7 +149,7 @@ body {
   overflow: hidden;
 }
 .portfolio::after {
-  content: "（为了更好的效果，请在浏览器环境下打开）";
+  content: "";
   position: absolute;
   left: 50%;
   font-size: 12px;
